@@ -1,2 +1,2 @@
 # Practice-Hub
-For my C language practice codes
+For my practice codes
